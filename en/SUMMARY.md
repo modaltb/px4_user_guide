@@ -196,6 +196,7 @@
   * [Holybro Kakute F7](flight_controller/kakutef7.md)
   * [Holybro Durandal](flight_controller/durandal.md)
   * [Omnibus F4 SD](flight_controller/omnibus_f4_sd.md)
+  * [NXP RDDRONE-FMUK66 FMU](flight_controller/nxp_rddrone_fmuk66.md)
   * [Snapdragon Flight](flight_controller/snapdragon_flight.md)
     * [Hardware Setup Example](flight_controller/snapdragon_flight_hardware_example_setup.md)
     * [Developer Environment Installation](flight_controller/snapdragon_flight_dev_environment_installation.md)
